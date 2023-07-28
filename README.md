@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saumya Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **Quiz App**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **ReactJs,NodeJs**
 
 - 📫 How to reach me **saumya052@gmail.com**
 
